@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "442006c9-1e60-47bf-95bd-598515989947",
+      "name": "Anshika Agarwal",
+      "email": "onlyagarwal9946@gmail.com"
+    },
+    {
+      "id": "42a6b982-822b-48ac-8ab6-dfc59002754b",
+      "name": "Anshika Agarwal",
+      "email": "anshika2011087@akgec.ac.in"
+    },
+    {
+      "id": "9f20cb58-ad89-45c3-9e68-bc644d99015c",
+      "name": "Aditi Agarwal",
+      "email": "aditiaga1998@gmail.com"
+    }
+  ]
+}
